@@ -18,7 +18,7 @@ import jsontest.test;
 
 public class JavaCalculatorTest extends JFrame implements ActionListener {
 	/**
-	 * 发大水发的撒金风科技搜
+	 * 发大   发的撒
 	 */
 	private static final long serialVersionUID = 1L;
 
